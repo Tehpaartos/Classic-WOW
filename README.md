@@ -9,7 +9,6 @@ Cancel Form
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
 ```
-**This macro will **
 
 Abolish Poison
 ```
