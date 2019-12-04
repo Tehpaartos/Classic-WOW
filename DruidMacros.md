@@ -327,7 +327,7 @@ Growl
 /cancelform [noform:1/3]
 /cast [form:3] Cat Form
 /cast [noform:1] Dire Bear Form
-/cast [@mouseover, harm, form:1][@target, harm, form:1] Growl
+/cast [@mouseover, harm, nodead, form:1][@target, harm, nodead, form:1] Growl
 ```
 
 Feral Charge
@@ -338,7 +338,7 @@ Feral Charge
 /cancelform [noform:1/3]
 /cast [form:3] Cat Form
 /cast [noform:1] Dire Bear Form
-/cast [@mouseover, harm, form:1][@target, harm, form:1] Feral Charge
+/cast [@mouseover, harm, nodead, form:1][@target, harm, nodead, form:1] Feral Charge
 ```
 
 Frenzied Regeneration
@@ -360,7 +360,7 @@ Bash
 /cancelform [noform:1/3]
 /cast [form:3] Cat Form
 /cast [noform:1] Dire Bear Form
-/cast [@mouseover, harm, form:1][@target, harm, form:1] Bash
+/cast [@mouseover, harm, nodead, form:1][@target, harm, nodead, form:1] Bash
 ```
 
 Maul
@@ -377,7 +377,7 @@ Swipe
 #showtooltip Swipe
 /stand
 /dismount
-/cast [@mouseover, harm, form:1][@target, harm, form:1] Swipe
+/cast [@mouseover, harm, nodead, form:1][@target, harm, nodead, form:1] Swipe
 /startattack [@mouseover, harm, nodead, form:1][@target, harm, nodead, form:1]
 ```
 
