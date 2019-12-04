@@ -368,7 +368,7 @@ Maul
 #showtooltip Maul
 /stand
 /dismount
-/startattack [@mouseover, harm, form:1][@target, harm, form:1]
+/startattack [@mouseover, harm, nodead, form:1][@target, harm, nodead, form:1]
 /cast !Maul
 ```
 
@@ -378,7 +378,7 @@ Swipe
 /stand
 /dismount
 /cast [@mouseover, harm, form:1][@target, harm, form:1] Swipe
-/startattack [@mouseover, harm, form:1][@target, harm, form:1]
+/startattack [@mouseover, harm, nodead, form:1][@target, harm, nodead, form:1]
 ```
 
 100% Safe Bear Consumable or Item Use Macro Example
