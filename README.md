@@ -280,7 +280,18 @@ Claw
 /cast Claw
 ```
 
-
+100% Safe Cat Consumable or Item Use Macro Example
+```
+#showtooltip
+/dismount
+/cancelaura Predatory Strikes(Rank 3)
+/cancelaura Leader of the Pack
+/cancelform [noform:1/3]
+/cast [form:1] Dire Bear Form
+/cast [form:3] Cat Form
+/use Major Mana Potion
+/cast [noform:3] Cat Form
+```
 
 ## Bear Form
 
@@ -369,14 +380,15 @@ Swipe
 /startattack [@mouseover, harm, form:1][@target, harm, form:1]
 ```
 
-100% Safe Bear Consumable or Item Use Macro
+100% Safe Bear Consumable or Item Use Macro Example
 ```
 #showtooltip
 /dismount
 /cancelaura Predatory Strikes(Rank 3)
 /cancelaura Leader of the Pack
-/cancelform [noform:1]
+/cancelform [noform:1/3]
 /cast [form:1] Dire Bear Form
+/cast [form:3] Cat Form
 /use Greater Stoneshield Potion
 /cast [noform:1] Dire Bear Form
 ```
