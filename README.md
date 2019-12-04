@@ -1,6 +1,6 @@
 
 # Macros
 
-# [Druid](DruidMacros.md)
+## [Druid](DruidMacros.md)
 
-# [Hunter](HunterMacros.md)
+## [Hunter](HunterMacros.md)
