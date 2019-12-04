@@ -160,7 +160,7 @@ Shadowmeld
 /cast Shadowmeld(Racial)
 ```
 
-Rank 4  Healing Touch
+R4  Healing Touch
 ```
 #showtooltip
 /stand
@@ -171,7 +171,7 @@ Rank 4  Healing Touch
 /cast [@mouseover, help][@target, help][@targettarget, help][@player]  Healing Touch(Rank 4)
 ```
 
-Regrowth OR Starfire
+HELP Regrowth or HARM Starfire
 ```
 #showtooltip
 /stand
@@ -180,7 +180,7 @@ Regrowth OR Starfire
 /cast [@mouseover,help,nodead] Regrowth; [@mouseover,harm,nodead] [harm] Starfire; Regrowth
 ```
 
-Rank 4 Regrowth OR Wrath
+HELP R4 Regrowth or HARM Wrath
 ```
 #showtooltip
 /stand
@@ -202,7 +202,7 @@ Max Rank Rejuvenation
 /cast [@mouseover,help,nodead] Rejuvenation; Rejuvenation
 ```
 
-Rank 4 Rejuvenation OR Insect Swarm
+HELP R4 Rejuvenation or HARM Insect Swarm
 ```
 #showtooltip
 /stand
@@ -213,7 +213,7 @@ Rank 4 Rejuvenation OR Insect Swarm
 /cast [@mouseover,help,nodead] Rejuvenation(Rank 4); [@mouseover,harm,nodead] [harm] Insect Swarm; Rejuvenation
 ```
 
-Rank 6 Rejuvenation OR Moonfire
+HELP R6 Rejuvenation or HARM Moonfire
 ```
 #showtooltip
 /stand
