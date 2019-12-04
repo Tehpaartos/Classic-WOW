@@ -368,6 +368,7 @@ Maul
 #showtooltip Maul
 /stand
 /dismount
+/startattack [@mouseover, harm, form:1][@target, harm, form:1]
 /cast !Maul
 ```
 
