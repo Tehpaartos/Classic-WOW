@@ -25,3 +25,18 @@ Dash
 /cast [noform:3] Cat Form
 /cast Dash
 ```
+
+## Bear Form
+
+Bear Form Powershift
+```
+#showtooltip Dire Bear Form
+/dismount
+/stand
+/cancelaura Predatory Strikes(Rank 3)
+/cancelaura Leader of the Pack
+/cancelform [noform:1/3]
+/cast [form:1] Dire Bear Form
+/cast [form:3] Cat Form
+/cast [noform:1] Dire Bear Form
+```
