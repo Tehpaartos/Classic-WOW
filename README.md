@@ -369,7 +369,7 @@ Swipe
 /startattack [@mouseover, harm, form:1][@target, harm, form:1]
 ```
 
-100% Safe Bear Consume / Use Macro
+100% Safe Bear Consumable or Item Use Macro
 ```
 #showtooltip
 /dismount
