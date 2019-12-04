@@ -369,3 +369,14 @@ Swipe
 /startattack [@mouseover, harm, form:1][@target, harm, form:1]
 ```
 
+100% Safe Bear Consume / Use Macro
+```
+#showtooltip
+/dismount
+/cancelaura Predatory Strikes(Rank 3)
+/cancelaura Leader of the Pack
+/cancelform [noform:1]
+/cast [form:1] Dire Bear Form
+/use Greater Stoneshield Potion
+/cast [noform:1] Dire Bear Form
+```
