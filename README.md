@@ -2,7 +2,7 @@
 
 ## Cat
 
-Cat Form 
+Cat Form with Powershift
 ```
 #showtooltip Cat Form
 /dismount
@@ -28,7 +28,7 @@ Dash
 
 ## Bear Form
 
-Bear Form Powershift
+Dire Bear Form with Powershift
 ```
 #showtooltip Dire Bear Form
 /dismount
@@ -40,3 +40,67 @@ Bear Form Powershift
 /cast [form:3] Cat Form
 /cast [noform:1] Dire Bear Form
 ```
+
+Challenging Roar
+```
+#showtooltip Challenging Roar
+/stand
+/dismount
+/cancelform [noform:1/3]
+/cast [form:3] Cat Form
+/cast [noform:1] Dire Bear Form
+/cast Challenging Roar
+```
+
+Growl
+```
+#showtooltip Growl
+/stand
+/dismount
+/cancelform [noform:1/3]
+/cast [form:3] Cat Form
+/cast [noform:1] Dire Bear Form
+/cast [@mouseover, harm, form:1][@target, harm, form:1] Growl
+```
+
+Feral Charge
+```
+#showtooltip Feral Charge
+/stand
+/dismount
+/cancelform [noform:1/3]
+/cast [form:3] Cat Form
+/cast [noform:1] Dire Bear Form
+/cast [@mouseover, harm, form:1][@target, harm, form:1] Feral Charge
+```
+
+Frenzied Regeneration
+```
+#showtooltip Frenzied Regeneration
+/stand
+/dismount
+/cancelform [noform:1/3]
+/cast [form:3] Cat Form
+/cast [noform:1] Dire Bear Form
+/cast Frenzied Regeneration
+```
+
+Maul
+```
+#showtooltip Maul
+/stand
+/dismount
+/cast !Maul
+```
+
+Swipe
+```
+#showtooltip Swipe
+/stand
+/dismount
+/cast [@mouseover, harm, form:1][@target, harm, form:1] Swipe
+/startattack [@mouseover, harm, form:1][@target, harm, form:1]
+```
+
+
+
