@@ -331,6 +331,17 @@ Frenzied Regeneration
 /cast Frenzied Regeneration
 ```
 
+Bash
+```
+#showtooltip Bash
+/stand
+/dismount
+/cancelform [noform:1/3]
+/cast [form:3] Cat Form
+/cast [noform:1] Dire Bear Form
+/cast [@mouseover, harm, form:1][@target, harm, form:1] Bash
+```
+
 Maul
 ```
 #showtooltip Maul
@@ -348,13 +359,3 @@ Swipe
 /startattack [@mouseover, harm, form:1][@target, harm, form:1]
 ```
 
-Bash
-```
-#showtooltip Bash
-/stand
-/dismount
-/cancelform [noform:1/3]
-/cast [form:3] Cat Form
-/cast [noform:1] Dire Bear Form
-/cast [@mouseover, harm, form:1][@target, harm, form:1] Bash
-```
