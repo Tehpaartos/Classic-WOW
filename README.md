@@ -9,6 +9,7 @@ Cancel Form
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
 ```
+**This macro will **
 
 Abolish Poison
 ```
@@ -21,15 +22,26 @@ Abolish Poison
 /cast [@mouseover, help][@target, help][@targettarget, help][@player] Abolish Poison
 ```
 
-Hurricane
+Remove Curse
 ```
-#showtooltip Hurricane
+#showtooltip Remove Curse
 /stand
 /dismount
 /cancelform [noform:1/3]
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
-/cast Hurricane
+/cast [@mouseover, help][@target, help][@targettarget, help][@player] Remove Curse
+```
+
+Rebirth
+```
+#showtooltip Rebirth
+/stand
+/dismount
+/cancelform [noform:1/3]
+/cast [form:1] Dire Bear Form
+/cast [form:3] Cat Form
+/cast [@mouseover, help][@target, help][@targettarget, help][@player] Rebirth
 ```
 
 Innervate
@@ -43,6 +55,36 @@ Innervate
 /cast [@mouseover,help][] Innervate
 ```
 
+Hurricane
+```
+#showtooltip Hurricane
+/stand
+/dismount
+/cancelform [noform:1/3]
+/cast [form:1] Dire Bear Form
+/cast [form:3] Cat Form
+/cast [@cursor] Hurricane
+```
+
+Tranquility
+```
+#showtooltip Tranquility
+/stand
+/dismount
+/cancelform [noform:1/3]
+/cast [form:1] Dire Bear Form
+/cast [form:3] Cat Form
+/cast Tranquility
+```
+
+Faerie Fire (any form)
+```
+#showtooltip 
+/stand
+/dismount
+/cast [form:1/3, @mouseover, harm][form:1/3, @target, harm] Faerie Fire (Feral); [@mouseover, harm, noform][@target, harm, noform] Faerie Fire;Faerie Fire
+```
+
 Mark of the Wild
 ```
 #showtooltip Mark of the Wild
@@ -54,12 +96,26 @@ Mark of the Wild
 /cast [@mouseover, help][@target, help][@targettarget, help][@player] Mark of the Wild
 ```
 
-Faerie Fire (any form)
+Gift of the Wild
 ```
-#showtooltip 
+#showtooltip Mark of the Wild
 /stand
 /dismount
-/cast [form:1/3, @mouseover, harm][form:1/3, @target, harm] Faerie Fire (Feral); [@mouseover, harm, noform][@target, harm, noform] Faerie Fire;Faerie Fire
+/cancelform [noform:1/3]
+/cast [form:1] Dire Bear Form
+/cast [form:3] Cat Form
+/cast [@mouseover, help][@target, help][@targettarget, help][@player] Gift of the Wild
+```
+
+Thorns
+```
+#showtooltip Thorns
+/stand
+/dismount
+/cancelform [noform:1/3]
+/cast [form:1] Dire Bear Form
+/cast [form:3] Cat Form
+/cast [@mouseover, help][@target, help][@targettarget, help][@player] Thorns
 ```
 
 Nature's Grasp
@@ -84,50 +140,6 @@ Nature's Swiftnes
 /cast Nature's Swiftness
 ```
 
-Rebirth
-```
-#showtooltip Rebirth
-/stand
-/dismount
-/cancelform [noform:1/3]
-/cast [form:1] Dire Bear Form
-/cast [form:3] Cat Form
-/cast [@mouseover, help][@target, help][@targettarget, help][@player] Rebirth
-```
-
-Remove Curse
-```
-#showtooltip Remove Curse
-/stand
-/dismount
-/cancelform [noform:1/3]
-/cast [form:1] Dire Bear Form
-/cast [form:3] Cat Form
-/cast [@mouseover, help][@target, help][@targettarget, help][@player] Remove Curse
-```
-
-Thorns
-```
-#showtooltip Thorns
-/stand
-/dismount
-/cancelform [noform:1/3]
-/cast [form:1] Dire Bear Form
-/cast [form:3] Cat Form
-/cast [@mouseover, help][@target, help][@targettarget, help][@player] Thorns
-```
-
-Tranquility
-```
-#showtooltip Tranquility
-/stand
-/dismount
-/cancelform [noform:1/3]
-/cast [form:1] Dire Bear Form
-/cast [form:3] Cat Form
-/cast Tranquility
-```
-
 Travel Form OR Aquatic Form
 ```
 #showtooltip Travel Form
@@ -149,6 +161,17 @@ Shadowmeld
 /cast Shadowmeld(Racial)
 ```
 
+Rank 4  Healing Touch
+```
+#showtooltip
+/stand
+/dismount
+/cancelform [noform:1/3]
+/cast [form:1] Dire Bear Form
+/cast [form:3] Cat Form
+/cast [@mouseover, help][@target, help][@targettarget, help][@player]  Healing Touch(Rank 4)
+```
+
 Regrowth OR Starfire
 ```
 #showtooltip
@@ -168,7 +191,6 @@ Rank 4 Regrowth OR Wrath
 /cast [form:3] Cat Form
 /cast [@mouseover,help,nodead] Regrowth(Rank 4); [@mouseover,harm,nodead] [harm] Wrath; Regrowth(Rank 4)
 ```
-
 
 Max Rank Rejuvenation
 ```
@@ -201,17 +223,6 @@ Rank 6 Rejuvenation OR Moonfire
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
 /cast [@mouseover,help,nodead] Rejuvenation(Rank 4); [@mouseover,harm,nodead] [harm] Moonfire; Rejuvenation(Rank 4)
-```
-
-Rank 4  Healing Touch
-```
-#showtooltip
-/stand
-/dismount
-/cancelform [noform:1/3]
-/cast [form:1] Dire Bear Form
-/cast [form:3] Cat Form
-/cast [@mouseover, help][@target, help][@targettarget, help][@player]  Healing Touch(Rank 4)
 ```
 
 
