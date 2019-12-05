@@ -11,23 +11,16 @@
 ```
 
 ## Ranged Attacks
-These macros will
-* Shots
-    1. Cast at the MouseOverTarget.
-    2. Cast at the PlayerTarget, if no MouseOverTarget.
-
-* Auto Shot
-    1. If no PlayerTarget exsists, AutoShot will be cast at the MouseOverTarget.
-    2. The ! will toggle AutoShot on and NOT let you toggle AutoShot off.
-
-* Melee
-    1. If unable to cast AutoShot
-
-
+The below macros will
+ 1. Cast at your primary target, unless you are mousing over another enemy target.
+ 2. If you don't have a primary target, you will now begin to auto attack this target.  The ! will make sure you can't toggle auto shot off.
+ 3. If your player target is in the dead zone,begin to melee attack
 
 ### Arcane Shot
 ```
 #showtooltip
+/stand
+/dismount
 /cast [@mouseover,harm,nodead] Arcane Shot;Arcane Shot
 /cast [@playertarget,noexists,harm][@mouseover, harm] !Auto Shot
 /startattack [harm,nodead]
@@ -36,6 +29,8 @@ These macros will
 ### Multi-Shot
 ```
 #showtooltip
+/stand
+/dismount
 /cast [@mouseover, harm] Multi-Shot;Multi-Shot
 /cast [@playertarget,noexists,harm][@mouseover, harm] !Auto Shot
 /startattack [harm,nodead]
@@ -44,6 +39,8 @@ These macros will
 ### Serpent Sting
 ```
 #showtooltip
+/stand
+/dismount
 /cast [@mouseover, harm] Serpent Sting;Serpent Sting
 /cast [@playertarget,noexists,harm][@mouseover, harm] !Auto Shot
 /startattack [harm,nodead]
