@@ -82,6 +82,7 @@ The below Shots/Stings macros will:
 /cast Dash
 /cast Dive
 ```
+The below matrix will outline how the macro works
 ![OneButtonPet](/images/OneButtonPet.JPG)
 
 ### One Button Pet Control with Hunters Mark (leveling)
