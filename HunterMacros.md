@@ -1,7 +1,30 @@
 # Hunter Macros
 
+## General 
 
-## Ranged
+### Hunter's Mark
+```
+#showtooltip 
+/stand
+/dismount
+/cast [@mouseover, harm] Hunter's Mark;Hunter's Mark
+```
+
+## Ranged Attacks
+These macros will
+* Shots
+    1. Cast at the MouseOverTarget target.
+    2. If no MouseOverTarget, cast at the PlayerTarget.
+
+* Auto Shot
+    1. If no PlayerTarget exsists, AutoShot will be cast at the MouseOverTarget.
+    2. The ! will toggle AutoShot on and NOT let you toggle AutoShot off.
+
+* Melee
+    1. If unable to cast AutoShot
+
+
+
 ### Arcane Shot
 ```
 #showtooltip
@@ -10,27 +33,20 @@
 /startattack [harm,nodead]
 ```
 
-Multi-Shot
+### Multi-Shot
 ```
 #showtooltip
 /cast [@mouseover, harm] Multi-Shot;Multi-Shot
 /cast [@playertarget,noexists,harm][@mouseover, harm] !Auto Shot
+/startattack [harm,nodead]
 ```
 
-Serpent Sting
+### Serpent Sting
 ```
 #showtooltip
 /cast [@mouseover, harm] Serpent Sting;Serpent Sting
 /cast [@playertarget,noexists,harm][@mouseover, harm] !Auto Shot
 /startattack [harm,nodead]
-```
-
-Hunter's Mark
-```
-#showtooltip 
-/stand
-/dismount
-/cast [@mouseover, harm] Hunter's Mark;Hunter's Mark
 ```
 
 ## Melee
