@@ -2,7 +2,7 @@
 
 
 ## Ranged
-Arcane Shot
+### Arcane Shot
 ```
 #showtooltip
 /cast [@mouseover,harm,nodead] Arcane Shot;Arcane Shot
