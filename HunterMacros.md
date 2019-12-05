@@ -13,8 +13,8 @@
 ## Ranged Attacks
 These macros will
 * Shots
-    1. Cast at the MouseOverTarget target.
-    2. If no MouseOverTarget, cast at the PlayerTarget.
+    1. Cast at the MouseOverTarget.
+    2. Cast at the PlayerTarget, if no MouseOverTarget.
 
 * Auto Shot
     1. If no PlayerTarget exsists, AutoShot will be cast at the MouseOverTarget.
