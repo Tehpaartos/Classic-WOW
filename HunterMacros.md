@@ -11,10 +11,10 @@
 ```
 
 ## Ranged Attacks
-The below macros will
- 1. Cast at your primary target, unless you are mousing over another enemy target.
- 2. If you don't have a primary target, you will now begin to auto attack this target.  The ! will make sure you can't toggle auto shot off.
- 3. If your player target is in the dead zone,begin to melee attack
+The below Shots/Stings macros will:
+ 1. Cast your Shots/Stings at the MouseOverTarget, without dropping your current PlayerTarget.  This is amazing for Auto Shot uptime & you will be able to cast Shots/Stings at any target, in range.
+ 2. If you currently don't have a PlayerTarget, start Auto Shotting the MouseOverTarget.  The exclamation mark, !, will toggle Auto Shot ON and NOT let you toggle it OFF.
+ 3. If the PlayerTarget is within the hunter dead zone, Auto Shot will fail to cast, and you will begin to Melee attack the PlayerTarget.
 
 ### Arcane Shot
 ```
@@ -48,7 +48,7 @@ The below macros will
 
 ## Melee
 
-Wing Clip
+### Wing Clip
 ```
 #shottooltip 
 /cast Wing Clip
@@ -56,7 +56,7 @@ Wing Clip
 /cast Wing Clip(Rank 1)
 ```
 
-Raptor Strike & Mongoose Bite
+### Raptor Strike & Mongoose Bite
 ```
 #showtooltip
 /stopcasting
@@ -69,7 +69,9 @@ Raptor Strike & Mongoose Bite
 
 ## Pet
 
-One Button Pet Control
+
+
+### One Button Pet Control
 ```
 #showtooltip
 /petfollow [nocombat]
@@ -80,8 +82,9 @@ One Button Pet Control
 /cast Dash
 /cast Dive
 ```
+![OneButtonPet](/images/OneButtonPet.JPG)
 
-One Button Pet Control with Hunters Mark (leveling)
+### One Button Pet Control with Hunters Mark (leveling)
 ```
 #showtooltip
 /petfollow [nocombat]
@@ -94,14 +97,14 @@ One Button Pet Control with Hunters Mark (leveling)
 /cast [@mouseover,harm,nodead,nochanneling] Hunter's Mark
 ```
 
-Feed Pet
+### Feed Pet
 ```
 #showtooltip Feed Pet
 /cast [pet, nodead] Feed Pet
 /use [pet, nodead] Wild Hog Shank
 ```
 
-Mend Pet & Call Pet
+### Mend Pet & Call Pet
 ```
 #showtooltip
 /cast [@pet,dead]Revive Pet
@@ -109,7 +112,7 @@ Mend Pet & Call Pet
 /cast [@pet,nodead]Mend Pet
 ```
 
-One Button Eyes of the Beast
+### One Button Eyes of the Beast
 ```
 #showtooltip
 /cast Eyes of the Beast
@@ -119,7 +122,7 @@ One Button Eyes of the Beast
 
 ## Traps
 
-Explosive Trap
+### Explosive Trap
 ```
 #showtooltip Explosive Trap
 /petpassive
@@ -129,7 +132,7 @@ Explosive Trap
 /cast Explosive Trap
 ```
 
-Immolation Trap
+### Immolation Trap
 ```
 #showtooltip Immolation Trap
 /petpassive
@@ -139,7 +142,7 @@ Immolation Trap
 /cast Immolation Trap
 ```
 
-Freezing Trap
+### Freezing Trap
 ```
 #showtooltip Freezing Trap
 /petpassive
@@ -149,7 +152,7 @@ Freezing Trap
 /cast Freezing Trap
 ```
 
-Frost Trap
+### Frost Trap
 ```
 #showtooltip Frost Trap
 /petpassive
