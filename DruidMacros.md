@@ -384,6 +384,7 @@ Swipe
 100% Safe Bear Consumable or Item Use Macro Example
 ```
 #showtooltip
+/stand
 /dismount
 /cancelaura Predatory Strikes(Rank 3)
 /cancelaura Leader of the Pack
