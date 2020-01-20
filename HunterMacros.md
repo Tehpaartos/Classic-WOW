@@ -7,7 +7,7 @@
 #showtooltip 
 /stand
 /dismount
-/cast [@mouseover, harm] Hunter's Mark;Hunter's Mark
+/cast [@mouseover, harm] [] Hunter's Mark
 ```
 
 ## Ranged Attacks
@@ -21,7 +21,7 @@ The below Shots/Stings macros will:
 #showtooltip
 /stand
 /dismount
-/cast [@mouseover,harm,nodead] Arcane Shot;Arcane Shot
+/cast [@mouseover,harm,nodead] [] Arcane Shot
 /cast [@playertarget,noexists,harm][@mouseover, harm] !Auto Shot
 /startattack [harm,nodead]
 ```
@@ -31,7 +31,7 @@ The below Shots/Stings macros will:
 #showtooltip
 /stand
 /dismount
-/cast [@mouseover, harm] Multi-Shot;Multi-Shot
+/cast [@mouseover, harm] [] Multi-Shot
 /cast [@playertarget,noexists,harm][@mouseover, harm] !Auto Shot
 /startattack [harm,nodead]
 ```
@@ -41,7 +41,7 @@ The below Shots/Stings macros will:
 #showtooltip
 /stand
 /dismount
-/cast [@mouseover, harm] Serpent Sting;Serpent Sting
+/cast [@mouseover, harm] [] Serpent Sting
 /cast [@playertarget,noexists,harm][@mouseover, harm] !Auto Shot
 /startattack [harm,nodead]
 ```
