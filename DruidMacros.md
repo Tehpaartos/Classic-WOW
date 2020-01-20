@@ -40,7 +40,7 @@ Rebirth
 /cancelform [noform:1/3]
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
-/cast [@mouseover, help][@target, help][@targettarget, help][@player] Rebirth
+/cast [@mouseover, help][@target, help][@targettarget, help] Rebirth
 ```
 
 Innervate
