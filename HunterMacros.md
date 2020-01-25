@@ -10,6 +10,22 @@
 /cast [@mouseover, harm] [] Hunter's Mark
 ```
 
+### Aspect of the Hawk
+```
+#showtooltip 
+/stand
+/dismount
+/cast !Aspect of the Hawk
+```
+
+### Aspect of the Monkey
+```
+#showtooltip 
+/stand
+/dismount
+/cast !Aspect of the Monkey
+```
+
 ## Ranged Attacks
 The below Shots/Stings macros will:
  1. Cast your Shots/Stings at the MouseOverTarget, without dropping your current PlayerTarget.  This is amazing for Auto Shot uptime & you will be able to cast Shots/Stings at any target, in range.
