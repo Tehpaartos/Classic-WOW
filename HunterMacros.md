@@ -2,6 +2,14 @@
 
 ## General 
 
+### Auto Shot
+```
+#showtooltip 
+/stand
+/dismount
+/cast [@mouseover, harm] [] !Auto Shot
+```
+
 ### Hunter's Mark
 ```
 #showtooltip 
