@@ -8,6 +8,7 @@
 /stand
 /dismount
 /cast [@mouseover, harm] [] !Auto Shot
+/startattack [harm,nodead]
 ```
 
 ### Hunter's Mark
