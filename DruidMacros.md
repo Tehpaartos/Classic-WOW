@@ -381,7 +381,7 @@ Swipe
 /startattack [@mouseover, harm, nodead, form:1][@target, harm, nodead, form:1]
 ```
 
-100% Safe Bear Consumable or Item Use Macro Example
+Safe(ish) Bear Consumable or Item Use Macro Example (Make sure you  are off the GCD to use)
 ```
 #showtooltip
 /stand
@@ -392,5 +392,19 @@ Swipe
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
 /use Greater Stoneshield Potion
+/cast [noform:1] Dire Bear Form
+```
+
+Safe holywater/dynamite  macro 
+```
+#showtooltip
+/stand
+/dismount
+/cancelaura Predatory Strikes(Rank 3)
+/cancelaura Leader of the Pack
+/cancelform [noform:1/3]
+/cast [form:1] Dire Bear Form
+/cast [form:3] Cat Form
+/use  [@cursor] Stratholme Holy Water
 /cast [noform:1] Dire Bear Form
 ```
