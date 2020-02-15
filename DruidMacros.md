@@ -9,6 +9,7 @@ Cancel Form
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
 ```
+Note: the above will only let you leave form when you are off the GCD.  The general idea is that leaving bear/cat should only be done when you can do somthing else on the same GCD.
 
 Abolish Poison
 ```
