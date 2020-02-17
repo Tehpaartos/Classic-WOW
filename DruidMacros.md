@@ -79,10 +79,10 @@ Tranquility
 
 Faerie Fire (any form)
 ```
-#showtooltip 
+#showtooltip Faerie Fire (Feral)
 /stand
 /dismount
-/cast [form:1/3, @mouseover, harm][form:1/3, @target, harm] Faerie Fire (Feral); [@mouseover, harm, noform][@target, harm, noform] Faerie Fire;Faerie Fire
+/cast [form:1/3, @mouseover, harm][form:1/3, @target, harm] Faerie Fire (Feral); [noform, @mouseover, harm][noform, @target, harm] Faerie Fire
 ```
 
 Mark of the Wild
