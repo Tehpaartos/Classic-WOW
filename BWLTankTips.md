@@ -1,5 +1,5 @@
 
-# Reboot BWL Tips
+# Reboot BWL Tank Tips
 
 ## Razorgore the Untamed
 * Conflagration - Conflagration deals Fire damage and **disorients the Main Tank for 10 seconds.**
