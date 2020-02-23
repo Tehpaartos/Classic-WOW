@@ -48,7 +48,7 @@ Ranged / Melee need to have backs to wall or not get knocked into mobs
 Flame Buffet - a strong DOT that increases Fire damage taken by 20 seconds
 Wing Buffet - Frontal cone AOE that also knocks back all targets affected & reduces the threat levels of everyone taking it
 Thrash - Firemaw attack the current tank twice in quick succession.
-## The Fight
+### The Fight
 * 315 FR & Onyxia Scale Cloak 
 * Flask should still be ticking from Vaelastrasz
 #### Main Tank
@@ -65,7 +65,7 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 * Shadow of Ebonroc - Shadow of Ebonroc applies a debuff to its current target for 8 seconds - Every time Ebonroc melees this target, it will heal for 25,000.
 * Wing Buffet - Frontal cone AOE that also knocks back all targets affected & reduces the threat levels of everyone taking it
 * Thrash - Firemaw attack the current tank twice in quick succession.
-## The Fight
+### The Fight
 * 200 FR & Onyxia Scale Cloak 
 * Flask should still be ticking from Vaelastrasz
 * Tanks in the corner in a triangle.  [See this image](https://cdn.discordapp.com/attachments/607895110834716672/678912314845429761/unknown.png)
@@ -83,7 +83,7 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 * Frenzy - Immediately removed by any Hunters with  Tranquilizing Shot or Flamegor will start using  Fire Nova every couple seconds
 * Wing Buffet - Frontal cone AOE that also knocks back all targets affected & reduces the threat levels of everyone taking it
 * Thrash - Firemaw attack the current tank twice in quick succession.
-## The Fight
+### The Fight
 * 200 FR & Onyxia Scale Cloak 
 * Flask should still be ticking from Vaelastrasz
 * Tanks in the corner in a triangle.  [See this image](https://cdn.discordapp.com/attachments/607895110834716672/678912314845429761/unknown.png)
