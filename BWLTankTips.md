@@ -13,7 +13,7 @@ Blackwing Mage - casters that have high amounts of damage, but really low health
 Blackwing Legionnaire - melee mobs with medium health and damage. They aren't very dangerous on their own, just watch for their Cleave.
 ### The Fight - Phase 2
 #### Main Tank
-Will breakes the last egg as it will generate infinite agro 
+Will brake the last egg as it will generate infinite agro 
 #### Off-tanks
 Focus on being second on threat as you will need to tank the boss for 10 seconds when the main tank gets **Conflagration**
 
@@ -26,14 +26,14 @@ Focus on being second on threat as you will need to tank the boss for 10 seconds
 This is enough FR to help with the breath WITHOUT giving up too much MIT & TPS
 #### Tank Swaps
 Due to how the boss is scripted, AFTER the tank get Burning Adrenaline, the next Flame Breath will kill the boss tank.
-The next Off-tank will need to move to the MAIN TANKS position at the end of that next Flame Breath cast to avoid the raid geting tail  whipped.
+The next Off-tank will need to move to the MAIN TANKS position at the end of that next Flame Breath cast to avoid the raid getting tail whipped.
 
 ## Broodlord Lashlayer
 * Knock Away - Inflicts normal damage plus 30 to an enemy and knocks it back.
 * Mortal Strike - Inflicts 500% weapon damage and leaves the target wounded, reducing the effectiveness of any healing by 50% for 5 sec.
 * Cleave - Inflicts weapon damage plus 10 to an enemy and its nearest allies, affecting up to 3 targets.
 * Blast Wave - Unleashes a wave of flame, inflicting Fire damage to nearby enemies and reducing their movement speed for 8 sec.
-Ranged / Melee need to have backs to wall or not get knocked into mobs
+Ranged / Melee need to have backs to a wall or not get knocked into mobs
 ### The Fight
 * Flask should still be ticking from Vaelastrasz
 #### Main Tank
@@ -42,7 +42,7 @@ Ranged / Melee need to have backs to wall or not get knocked into mobs
 #### Off-tank
 * Eat Cleave's for more rage
 * Must be actively building threat and preparing to take aggro once the Main Tank is hit with Knock Away.
-* 3rd tank pickup any adds we pull from the suppression room
+* 3rd tank pick up any adds we pull from the suppression room
 
 ## Firemaw
 Flame Buffet - a strong DOT that increases Fire damage taken by 20 seconds
@@ -53,13 +53,13 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 * Flask should still be ticking from Vaelastrasz
 #### Main Tank
 * Tank with back to a wall
-* FR cap *should* resist enough Flame Buffet cast to reset the debuff. If this dosent happen the OT / 3rd tank will need to take the boss for the MT to reset
+* FR cap *should* resist enough Flame Buffet cast to reset the debuff. If this doesn't happen the OT / 3rd tank will need to take the boss for the MT to reset
 #### Off-tank
 * Taunt the boss 5 sec before Wing Buffet
 * Take the boss if the MT's stack are too high (heals will be bitching about it)
 #### 3rd-tank
 * DPS the boss from behind
-* Take on the roll of the OT if the MT has to reset stacks (or dies)
+* Take on the role of the OT if the MT has to reset stacks (or dies)
 
 ## Firemaw
 * Shadow of Ebonroc - Shadow of Ebonroc applies a debuff to its current target for 8 seconds - Every time Ebonroc melees this target, it will heal for 25,000.
@@ -77,7 +77,7 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 #### 3rd-tank
 * Taunt the boss 5 sec before Wing Buffet
 * Taunt the boss if the Off-tanks taunt fails
-* Take on the roll of the OT if any tank dies
+* Take on the role of the OT if any tank dies
 
 ## Flamegor
 * Frenzy - Immediately removed by any Hunters with  Tranquilizing Shot or Flamegor will start using  Fire Nova every couple seconds
@@ -92,6 +92,6 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 #### Off-tank
 * Taunt the boss 5 sec before Wing Buffet
 #### 3rd-tank
-* Taunt the boss if the Off-tanks taunt fail
-* Take on the roll of the OT if any tank dies
+* Taunt the boss if the Off-tanks taunt fails
+* Take on the role of the OT if any tank dies
 
