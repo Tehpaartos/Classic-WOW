@@ -1,8 +1,9 @@
 
-# Reboot BWL Tank Tips
+# Reboot BWL Tips
 
 ## Raz
 ### Phase 1
+#### Tanks
 * 4 Tanks, split into groups of two, either side of the south/west platform
 * Tank 1 - Focus on
 Death Talon Dragonspawn - Dragonkin mob that have high amounts of health and high damage.
