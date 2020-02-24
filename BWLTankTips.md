@@ -110,18 +110,17 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 
 ## Chromaggus
 * Breaths Every raid reset, Chromaggus will use two out of the five possible breaths, and will continue using these two breaths for the remainder of the raid week.
-⋅⋅ * Black -  Ignite Flesh: Deals ~750 Fire damage every 3 seconds. Lasts 1 minute. Can stack if not LoS'd.
-⋅⋅ * Bronze -  Time Lapse Stuns for 6 seconds, reducing health by 50% and halving generated aggro. for the duration.
-⋅⋅ * Blue -  Frost Burn: Deals ~1400 Frost damage and increases the time between melee attacks by 80%. Lasts 15 seconds.
-⋅⋅ * Green -  Corrosive Acid: Deals ~1000 Nature damage every 3 seconds and reduces Armor by 4500. Lasts 15 seconds.
-⋅⋅ * Red -  Incinerate: Deals ~4000 Fire Damage.
-* Brood Affliction. These will debuff everyone in the zone, and cannot be avoided by going out of Chromaggus' Line of Sight. 
-⋅⋅ * pe and can be dispelled by different spells.
-⋅⋅ * Black -  Brood Affliction: Black: Increases Fire damage taken by 100%. Removed by Curse dispells.
-⋅⋅ * Bronze -  Brood Affliction: Bronze: Periodically stuns for 4 seconds. Can only be removed by using  Hourglass Sand.
-⋅⋅ * Blue -  Brood Affliction: Blue: Burns ~50 Mana every second, increases cast time by 50% and reduces movement speed by 30%. Removed by Magic dispells.
- * Green -  Brood Affliction: Green: Deals 250 damage every 5 seconds and reduces Healing taken by 50%. Removed by Poison dispells.
- * Red -  Brood Affliction: Red: Deals 50 damage every 3 seconds. If the player dies while afflicted with this, they also heal Chromaggus. Removed by Disease dispells.
+⋅⋅⋅Black -  Ignite Flesh: Deals ~750 Fire damage every 3 seconds. Lasts 1 minute. Can stack if not LoS'd.
+⋅⋅⋅Bronze -  Time Lapse Stuns for 6 seconds, reducing health by 50% and halving generated aggro. for the duration.
+⋅⋅⋅Blue -  Frost Burn: Deals ~1400 Frost damage and increases the time between melee attacks by 80%. Lasts 15 seconds.
+⋅⋅⋅Green -  Corrosive Acid: Deals ~1000 Nature damage every 3 seconds and reduces Armor by 4500. Lasts 15 seconds.
+⋅⋅⋅Red -  Incinerate: Deals ~4000 Fire Damage.
+* Brood Affliction. These will debuff everyone in the zone, and cannot be avoided by going out of Chromaggus' Line of Sight. Each Brood Affliction is a different debuff type and can be dispelled by different spells.
+⋅⋅⋅Black -  Brood Affliction: Black: Increases Fire damage taken by 100%. Removed by Curse dispells.
+⋅⋅⋅Bronze -  Brood Affliction: Bronze: Periodically stuns for 4 seconds. Can only be removed by using  Hourglass Sand.
+⋅⋅⋅Blue -  Brood Affliction: Blue: Burns ~50 Mana every second, increases cast time by 50% and reduces movement speed by 30%. Removed by Magic dispells.
+⋅⋅⋅Green -  Brood Affliction: Green: Deals 250 damage every 5 seconds and reduces Healing taken by 50%. Removed by Poison dispells.
+⋅⋅⋅Red -  Brood Affliction: Red: Deals 50 damage every 3 seconds. If the player dies while afflicted with this, they also heal Chromaggus. Removed by Disease dispells.
 ### The Fight
 * Everyone except the Main Tank will line-of-sight every Breath by the boss
 * If we have Breath Bronze - Time Lapse the Main Tank & ALL DPS will get hit, Off-tanks will take the boss
