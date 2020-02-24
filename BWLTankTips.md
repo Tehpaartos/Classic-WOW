@@ -46,7 +46,8 @@ Ranged / Melee need to have backs to a wall or not get knocked into mobs
 #### Off-tank
 * Eat Cleave's for more rage
 * Must be actively building threat and preparing to take aggro once the Main Tank is hit with Knock Away.
-* 3rd tank pick up any adds we pull from the suppression room
+#### 3rd-tank
+* 3rd tank pick up any adds we may pull from the suppression room
 #### Guides
 [Wowhead](https://classic.wowhead.com/guides/broodlord-lashlayer-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/broodlord-lashlayer-guide-strategy-abilities-loot)
 
@@ -106,4 +107,27 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 * Take on the role of the OT if any tank dies
 #### Guides
 [Wowhead](https://classic.wowhead.com/guides/flamegor-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/flamegor-guide-strategy-abilities-loot)
+
+## Chromaggus
+* 
+### The Fight
+* 
+#### Main Tank
+* 
+#### Off-tanks
+* 
+#### Guides
+[Wowhead](https://classic.wowhead.com/guides/chromaggus-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/chromaggus-guide-strategy-abilities-loot)
+
+## Nefarian
+* 
+### The Fight
+* 
+#### Main Tank
+* 
+#### Off-tanks 
+* 
+#### Guides
+[Wowhead](https://classic.wowhead.com/guides/nefarian-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/nefarian-guide-strategy-abilities-loot)
+
 
