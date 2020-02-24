@@ -16,7 +16,7 @@ Blackwing Legionnaire - melee mobs with medium health and damage. They aren't ve
 Will brake the last egg as it will generate infinite agro 
 #### Off-tanks
 Focus on being second on threat as you will need to tank the boss for 10 seconds when the main tank gets **Conflagration**
-#### Guide
+#### Guides
 [Wowhead](https://classic.wowhead.com/guides/razorgore-the-untamed-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/razorgore-the-untamed-guide-strategy-abilities-loot)
 
 ## Vaelastrasz the Corrupt 
@@ -29,7 +29,7 @@ This is enough FR to help with the breath WITHOUT giving up too much MIT & TPS
 #### Tank Swaps
 Due to how the boss is scripted, AFTER the tank get Burning Adrenaline, the next Flame Breath will kill the boss tank.
 The next Off-tank will need to move to the MAIN TANKS position at the end of that next Flame Breath cast to avoid the raid getting tail whipped.
-#### Guide
+#### Guides
 [Wowhead](https://classic.wowhead.com/guides/vaelastrasz-the-corrupt-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/vaelastrasz-the-corrupt-guide-strategy-abilities-loot)
 
 ## Broodlord Lashlayer
@@ -47,6 +47,7 @@ Ranged / Melee need to have backs to a wall or not get knocked into mobs
 * Eat Cleave's for more rage
 * Must be actively building threat and preparing to take aggro once the Main Tank is hit with Knock Away.
 * 3rd tank pick up any adds we pull from the suppression room
+#### Guides
 [Wowhead](https://classic.wowhead.com/guides/broodlord-lashlayer-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/broodlord-lashlayer-guide-strategy-abilities-loot)
 
 ## Firemaw
@@ -65,6 +66,7 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 #### 3rd-tank
 * DPS the boss from behind
 * Take on the role of the OT if the MT has to reset stacks (or dies)
+#### Guides
 [Wowhead](https://classic.wowhead.com/guides/firemaw-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/firemaw-guide-strategy-abilities-loot)
 
 ## Ebonroc
@@ -84,6 +86,7 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 * Taunt the boss 5 sec before Wing Buffet
 * Taunt the boss if the Off-tanks taunt fails
 * Take on the role of the OT if any tank dies
+#### Guides
 [Wowhead](https://classic.wowhead.com/guides/ebonroc-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/ebonroc-guide-strategy-abilities-loot)
 
 ## Flamegor
@@ -101,5 +104,6 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 #### 3rd-tank
 * Taunt the boss if the Off-tanks taunt fails
 * Take on the role of the OT if any tank dies
+#### Guides
 [Wowhead](https://classic.wowhead.com/guides/flamegor-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/flamegor-guide-strategy-abilities-loot)
 
