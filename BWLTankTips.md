@@ -109,13 +109,20 @@ Thrash - Firemaw attack the current tank twice in quick succession.
 [Wowhead](https://classic.wowhead.com/guides/flamegor-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/flamegor-guide-strategy-abilities-loot)
 
 ## Chromaggus
-* 
+* Every raid reset, Chromaggus will use two out of the five possible breaths, and will continue using these two breaths for the remainder of the raid week.
+** Black -  Ignite Flesh: Deals ~750 Fire damage every 3 seconds. Lasts 1 minute. Can stack if not LoS'd.
+** Bronze -  Time Lapse: Stuns for 6 seconds, reducing health by 50% and halving generated aggro. for the duration.
+** Blue -  Frost Burn: Deals ~1400 Frost damage and increases the time between melee attacks by 80%. Lasts 15 seconds.
+** Green -  Corrosive Acid: Deals ~1000 Nature damage every 3 seconds and reduces Armor by 4500. Lasts 15 seconds.
+** Red -  Incinerate: Deals ~4000 Fire Damage.
 ### The Fight
 * 
 #### Main Tank
-* 
+* Will never break Line of Sight from Chromaggus.
 #### Off-tanks
-* 
+* Focus on being second on the agro  table
+* Hide for ALL Breaths
+* Tank the boss when the Main Tank gets timelaps
 #### Guides
 [Wowhead](https://classic.wowhead.com/guides/chromaggus-blackwing-lair-strategy) [Icy Veins](https://www.icy-veins.com/wow-classic/chromaggus-guide-strategy-abilities-loot)
 
