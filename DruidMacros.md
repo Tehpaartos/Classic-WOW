@@ -233,8 +233,6 @@ Cat Form with Powershift
 #showtooltip Cat Form
 /dismount
 /stand
-/cancelaura Predatory Strikes(Rank 3)
-/cancelaura Leader of the Pack
 /cancelform [noform:1/3]
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
@@ -285,8 +283,7 @@ Claw
 ```
 #showtooltip
 /dismount
-/cancelaura Predatory Strikes(Rank 3)
-/cancelaura Leader of the Pack
+/stand
 /cancelform [noform:1/3]
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
@@ -301,8 +298,6 @@ Dire Bear Form with Powershift
 #showtooltip Dire Bear Form
 /dismount
 /stand
-/cancelaura Predatory Strikes(Rank 3)
-/cancelaura Leader of the Pack
 /cancelform [noform:1/3]
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
@@ -387,8 +382,6 @@ Safe(ish) Bear Consumable or Item Use Macro Example (Make sure you  are off the 
 #showtooltip
 /stand
 /dismount
-/cancelaura Predatory Strikes(Rank 3)
-/cancelaura Leader of the Pack
 /cancelform [noform:1/3]
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
@@ -401,8 +394,6 @@ Safe holywater/dynamite  macro
 #showtooltip
 /stand
 /dismount
-/cancelaura Predatory Strikes(Rank 3)
-/cancelaura Leader of the Pack
 /cancelform [noform:1/3]
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
