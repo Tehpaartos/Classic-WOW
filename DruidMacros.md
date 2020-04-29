@@ -266,7 +266,7 @@ Ravage & Shred
 #showtooltip
 /stand
 /dismount
-/startattack
+/startattack [nostealth]
 /cast [stealth] Ravage; [nostealth] Shred
 ```
 
