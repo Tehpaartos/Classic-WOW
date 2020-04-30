@@ -63,7 +63,8 @@ Hurricane
 /cancelform [noform:1/3]
 /cast [form:1] Dire Bear Form
 /cast [form:3] Cat Form
-/cast [@cursor] Hurricane
+/castsequence [@cursor] reset=20 Barkskin, Hurricane
+
 ```
 
 Tranquility
